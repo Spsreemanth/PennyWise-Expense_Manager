@@ -1,5 +1,12 @@
 # CommonCents: An Expense Manager
 CommonCents is a Graphical User interface (GUI) program written in Python and is capable of managing and tracking all expenses of a person. It is most useful for college students to keep track of their costs and spend them mindfully.
+- [CommonCents: An Expense Manager](commoncents:-an-expense-manager)
+  - [Modules Used](modules-used)
+  - [Prerequisites](prerequisites)
+  - [Flow of Execution](flow-of-execution)
+  - [UI Design](ui-design)
+  - [GUI Window Preview](gui-window-preview)
+  - [Developed By](developed-by)
 ## Modules Used
 - `tkinter`
 - `tkinter.fonts`
