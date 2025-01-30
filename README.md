@@ -37,5 +37,5 @@ https://github.com/RudranshKaran/CommonCents-An_Expense_Manager/assets/137274208
 
 ## Developed By
 - [Rudransh Karan](https://github.com/RudranshKaran)
-- [Sreekar](https://github.com/Spsreekar21)
-- [Sreemanth](https://github.com/Spsreemanth)
+- [Murali Sreekar Sundur Panthangi](https://github.com/Spsreekar21)
+- [Sreemanth Sundur Panthangi](https://github.com/Spsreemanth)
